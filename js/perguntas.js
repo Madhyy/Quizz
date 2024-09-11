@@ -3,10 +3,10 @@ export const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com dois mendigos brigando por um pão que estava casualmente no chão. O que você faz?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Pego o pão para mim.",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "Agora os dois mendigos não terão pelo que brigar pelo o que comer."
+                    "Você ganhou um pão e resolveu o conflito."
                 ],
                 proxima: 1,
             },
