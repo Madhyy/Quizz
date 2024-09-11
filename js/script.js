@@ -1,5 +1,5 @@
 import { aleatorio, nome } from './aleatorio.js';
-import {perguntas} from './perguntas.js';
+import { perguntas } from './perguntas.js';
 
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
@@ -27,12 +27,13 @@ function iniciaJogo() {
 }
 
 function mostraPergunta() {
-    if (atual >= perguntas.lenght) {
+    if (atual >= perguntas.length) {
         mostraResultado();
         return;
     }
     perguntaAtual = perguntas[atual];
     caixaPerguntas.textContent = perguntaAtual.enunciado;
+    caixaAlternativas.textContent = "";
     mostraAlternativas();
 }
 
@@ -49,31 +50,33 @@ function respostaSelecionada(opcaoSelecionada) {
     const afirmacoes = aleatorio(opcaoSelecionada.afirmacao);
     historiaFinal += afirmacoes + " ";
     if (opcaoSelecionada.proxima !== undefined) {
+        atual = opcaoSelecionada.proxima;
     } else {
         mostraResultado();
         return;
     }
     mostraPergunta();
+}
 
-    }
+function mostraResultado() {
+    caixaPerguntas.textContent = `Em 2049, ${nome}`;
+    textoResultado.textContent = historiaFinal;
+    caixaAlternativas.textContent = "";
+    caixaResultado.classList.add("mostrar");
+    botaoJogarNovamente.addEventListener("click", jogaNovamente);
+}
 
-    function mostraResultado() {
-        caixaPerguntas.textContent = `Em 2049, ${nome}`;
-        textoResultado.textContent = historiaFinal;
-        caixaAlternativas.textContent = "";
-        caixaResultado.classList.add("amostrar");
-        botaoJogarNovamente.addEventListener("click", jogaNovamente);
-    }
+function jogaNovamente() {
+    atual = 0;
+    historiaFinal = "";
+    caixaResultado.classList.remove("mostrar");
+    mostraPergunta();
+}
 
-    function jogaNovamente() {
-        atual = 0;
-        historiaFinal = "";
-        caixaResultado.classList.remove("mostrar");
-        mostraPergunta();
+function substituiNome() {
+    for (const pergunta of perguntas) {
+        pergunta.enunciado = pergunta.enunciado.replace(/você/g, nome);
     }
+}
 
-    function substituiNome() {
-        for (const pergunta of perguntas) {
-            pergunta.enunciado = pergunta.enunciado.replace(/você/g, nome);
-        }
-    }
+substituiNome();
