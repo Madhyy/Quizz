@@ -5,7 +5,7 @@ export const perguntas = [
             {
                 texto: "Pego o pão para mim.",
                 afirmacao: [
-                    "Agora os dois mendigos não terão pelo que brigar pelo o que comer."
+                    "Agora os dois mendigos não terão pelo que brigar pelo o que comer.",
                     "Você ganhou um pão e resolveu o conflito."
                 ],
                 proxima: 1,
