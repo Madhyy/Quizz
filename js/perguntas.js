@@ -53,7 +53,7 @@ export const perguntas = [
                     "Era um movimento promovendo ações para ajudar aspirantes a politicos, mas então você se recorda do atual prefeito e do bairro esquecido, foi assim que o prefeito ocupou o atual cargo, com isso você desvia as arrecadações desse grupos e investe.",
                     "Se juntando ao grupo que promovia ações você se sente realizado, mas falha ao perceber que o grupo ajudava tiktokers a crescer, apoiavam npc's e diagnosticava gratuitamente outras pessoas com base em videos do tiktok (já pode terminar aqui o desafio e ir pro tiktok)."
                 ],
-                proxima: 5,
+                proxima: 4,
             },
             {
                 texto: "Paro para observar e vou embora.",
@@ -62,7 +62,7 @@ export const perguntas = [
                     "É um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
                     "Na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
                 ],
-                proxima: 6,
+                proxima: 3,
             },
         ]
     },
