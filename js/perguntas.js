@@ -6,15 +6,15 @@ export const perguntas = [
                 texto: "Pego o pão para mim.",
                 afirmacao: [
                     "Agora os dois mendigos não terão pelo que brigar pelo o que comer.",
-                    "Você ganhou um pão e resolveu o conflito."
+                    "Você ganhou um pão e resolveu a discussão entre os dois mendigos, agora ambos vãoo vir unidos para cima de você, corra."
                 ],
                 proxima: 1,
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Vou embora.",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Os dois mendingos duelaram até o fim, agora resta apenas um mendigo não mais faminto depois de comer o pão",
+                    "Após ir embora os mendingos continuaram até que se cansaram e dividiram o pão voluntariamente e não graças a você."
                 ],
                 proxima: 2,
             },
