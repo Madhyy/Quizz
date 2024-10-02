@@ -44,14 +44,14 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Um chat com IA pode ser uma boa alternativa para realizar tarefas do dia a dia e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Após atravessar o bairro você encontra um grupo promovendo ações sociais",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Me junto a eles",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Se juntando ao grupo que promovia ações sociais você se sente comovido e expande as ações usando o pouco de pensão paga pelo seu pai, mas então percebe que pode receber bem mais se ele pagasse por seus últimos 10 anos de vida, abrindo um processo você recupera o valor e abre um movimento contra negadores de pensões aos filhos, dando mais condições a esses que nunca receberam pensão e falindo seus pais (parabéns, o numero de filhos sem pensões era antes maior que o numero de pais que deviam, logo o valor inverte e a taxa de desigualdade abaixa, permanecendo apenas os pais)",
+                    "Era um movimento promovendo ações para ajudar aspirantes a politicos, mas então você se recorda do atual prefeito e do bairro esquecido, foi assim que o prefeito ocupou o atual cargo, com isso você desvia as arrecadações desse grupos e investe.",
+                    "Se juntando ao grupo que promovia ações você se sente realizado, mas falha ao perceber que o grupo ajudava tiktokers a crescer, apoiavam npc's e diagnosticava gratuitamente outras pessoas com base em videos do tiktok (já pode terminar aqui o desafio e ir pro tiktok)."
                 ],
                 proxima: 5,
             },
@@ -61,27 +61,6 @@ export const perguntas = [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
                     "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
-                ],
-                proxima: 6,
-            },
-        ]
-    },
-    {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
-                ],
-                proxima: 5,
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
                 proxima: 6,
             },
