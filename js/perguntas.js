@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Assim que saiu da escola você se depara com dois mendigos brigando por um pão que estava casualmente no chão. O que você faz?",
         alternativas: [
             {
-                texto: "Pego o pão para mim.",
+                texto: "Pegar o pão.",
                 afirmacao: [
                     "Agora os dois mendigos não terão que brigar pelo o que comer.",
                     "Você ganhou um pão e resolveu a discussão entre os dois mendigos, agora ambos vão vir unidos para cima de você, corra."
@@ -11,7 +11,7 @@ export const perguntas = [
                 proxima: 1,
             },
             {
-                texto: "Vou embora.",
+                texto: "Ir embora.",
                 afirmacao: [
                     "Os dois mendigos duelaram até o fim, menos um mendigo faminto no mundo e mais um satisfeito após comer o pão.",
                     "Após ir embora os mendingos continuaram até que se cansaram e dividiram o pão voluntariamente."
@@ -61,6 +61,27 @@ export const perguntas = [
                     "Ao observar o grupo você percebe que são tiktokers trazendo mendigos para realizarem desafios em videos e então recebe uma recompensa misteriosa, o que não esperavam é que um desses mendigos que esperavam ajudar na verdade era o grande influenciador mendigo Bluezão, fazendo um teste social, ele te vê depois e te entrega parte de suas propriedades que podem ser usadas para criar residencias voluntárias. ",
                     "O grupo que você parou para olhar, é um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
                     "Aquele grupo que você parrou para observar, na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
+                ],
+                proxima: 2,
+            },
+        ]
+    },
+    {
+        enunciado: "Quando você finalmente chegava na rua de sua casa, você é parado pelo mendigo Bluezão, você tem duas escolhas a fazer sabendo que pode mudar sua vida.",
+        alternativas: [
+            {
+                texto: "Paro para falar com ele",
+                afirmacao: [
+                    " Ao parar para falar com Bluezão você é pego pela história de vida dele, nada muito comovente, mas você foi o primeiro que parou para o escutar, e no final você descobre que é um teste social, a herança dele é colocada em seu nome e assim você decide voluntariamente (ou não) doar para a caridade",
+                    "Parando para falar com Bluezão vocês entram em um consenso após entrar em um crise existencial, vocês elaboraram acidentalmente um bom plano para ajudar bairros necessitados e pessoas"
+                ],
+                proxima: 1,
+            },
+            {
+                texto: "Humilhar ele e ir embora",
+                afirmacao: [
+                    "Humilhando o BLuezão você o fez chorar, não man, não é assim que se contribui com a sociedade, você não teve sucesso com o seu objetivo de resolver os problemas do mundo.",
+                    "Humilhando o Bluezão ele joga umas moedas para que você deixasse ele, com essas moedas você pode investir já que se recorda de um video no tiktok onde um mano cresceu com uma moeda de um real, caso contrário você poderia simplesmente usar a moeda em maquinas de pegar Pokémon"
                 ],
                 proxima: 2,
             },
