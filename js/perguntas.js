@@ -24,9 +24,9 @@ export const perguntas = [
         enunciado: "Continuando a caminhada de volta para casa após você atravessar o bairro onde prefeito da cidade vive, você se depara com o bairro esquecido pelo prefeito. Não há asfalto, iluminação, apenas uma trilha submersa em um rio (embora não haja rios pela área, esssa água parou aí de algum modo)...",
         alternativas: [
             {
-                texto: "UtjIA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "Atravessar mesmo assim (fazendo Parkour)",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
+                    "Atravessando o bairro que sequer foi inaugurado com um nome, você pula sobre as tábuas que foram usadas para cobrir a água, quando estava para sair você acidentalmente pisa numa poça de água que pela escuridão não viu, instantaneamente você sente a má energia da poça, corra para um UPA próximo (boa sorte)",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
                     "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
                 ],
