@@ -44,7 +44,7 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Após atravessar o bairro você encontra um grupo promovendo ações sociais",
+        enunciado: "Após atravessar o bairro você encontra um grupo promovendo ações sociais (supostamente)",
         alternativas: [
             {
                 texto: "Me junto a eles",
@@ -56,11 +56,11 @@ export const perguntas = [
                 proxima: 5,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "Paro para observar e vou embora.",
                 afirmacao: [
-                    "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
-                    "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
-                    "Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca intromissão da tecnologia."
+                    "Ao observar o grupo você percebe que são tiktokers trazendo mendigos para realizarem desafios em videos e então recebe uma recompensa misteriosa, o que não esperavam é que um desses mendigos que esperavam ajudar na verdade era o grande influenciador mendigo Bluezão, fazendo um teste social, ele te vê depois e te entrega parte de suas propriedades que podem ser usadas para criar residencias voluntárias. ",
+                    "É um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
+                    "Na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
                 ],
                 proxima: 6,
             },
