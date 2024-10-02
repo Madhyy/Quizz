@@ -24,7 +24,7 @@ export const perguntas = [
         enunciado: "Continuando a caminhada de volta para casa após você atravessar o bairro onde prefeito da cidade vive, você se depara com o bairro esquecido pelo prefeito. Não há asfalto, iluminação, apenas uma trilha submersa em um rio... (embora não haja rios pela área, esssa água parou aí de algum modo.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "UtjIA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
                 afirmacao: [
                     "Conseguiu utilizar a IA para buscar informações úteis.",
                     "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
