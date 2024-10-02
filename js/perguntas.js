@@ -30,7 +30,7 @@ export const perguntas = [
                     "Fazendo Parkour nas casinhas do bairro esquecido, você pisa numa telha solta e cai dentro da casinha. Lá estava o homem do qual você chama de pai com sua segunda familia, após o choque você recebe alguns trocados para se calar, dinheiro que pode ser usado para investir em organizações de cunho social.",
                     "Ante mesmo de conseguir correr para se desviar da água, devido a escuridão e a rua com buracos, você tropeça e cai, deixando cair alguns trocados que em breve alguém que vive ali pode encontrar, abrindo portas para um futuro brihante a essa pessoa que pode usar o dinheiro para melhorar de vida ou então gastar com pinga."
                 ],
-                proxima: 1,
+                proxima: 3,
             },
             {
                 texto: "Reportar a situação para o prefeito.",
@@ -39,7 +39,7 @@ export const perguntas = [
                     "Após reportar de maneira sensata a situação ao prefeito, o bairro passa por uma transforção onde todos os moradores são retirados de suas casa e por fim apartamentos são feitos para acomodar mais pessoas, mas eles não foram feito exatamente para os antigos moradores viverem (parabéns, acabou com familias)",
                     "Depois de reportar, o prefeito concordou em restaurar o bairro e agora além de estar iluminado e asfaltado, o bairro tem um nome."
                 ],
-                proxima: 2,
+                proxima: 4,
             },
         ]
     },
@@ -53,7 +53,7 @@ export const perguntas = [
                     "Era um movimento promovendo ações para ajudar aspirantes a politicos, mas então você se recorda do atual prefeito e do bairro esquecido, foi assim que o prefeito ocupou o atual cargo, com isso você desvia as arrecadações desse grupos e investe.",
                     "Se juntando ao grupo que promovia ações você se sente realizado, mas falha ao perceber que o grupo ajudava tiktokers a crescer, apoiavam npc's e diagnosticava gratuitamente outras pessoas com base em videos do tiktok (já pode terminar aqui o desafio e ir pro tiktok)."
                 ],
-                proxima: 1,
+                proxima: 5,
             },
             {
                 texto: "Paro para observar e vou embora.",
@@ -62,7 +62,7 @@ export const perguntas = [
                     "O grupo que você parou para olhar, é um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
                     "Aquele grupo que você parrou para observar, na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
                 ],
-                proxima: 2,
+                proxima: 6,
             },
         ]
     },
@@ -75,7 +75,7 @@ export const perguntas = [
                     " Ao parar para falar com Bluezão você é pego pela história de vida dele, nada muito comovente, mas você foi o primeiro que parou para o escutar, e no final você descobre que é um teste social, a herança dele é colocada em seu nome e assim você decide voluntariamente (ou não) doar para a caridade",
                     "Parando para falar com Bluezão vocês entram em um consenso após entrar em um crise existencial, vocês elaboraram acidentalmente um bom plano para ajudar bairros necessitados e pessoas"
                 ],
-                proxima: 1,
+                proxima: 7,
             },
             {
                 texto: "Humilhar ele e ir embora",
@@ -83,7 +83,7 @@ export const perguntas = [
                     "Humilhando o BLuezão você o fez chorar, não man, não é assim que se contribui com a sociedade, você não teve sucesso com o seu objetivo de resolver os problemas do mundo.",
                     "Humilhando o Bluezão ele joga umas moedas para que você deixasse ele, com essas moedas você pode investir já que se recorda de um video no tiktok onde um mano cresceu com uma moeda de um real, caso contrário você poderia simplesmente usar a moeda em maquinas de pegar Pokémon"
                 ],
-                proxima: 2,
+                proxima: 8,
             },
         ]
     },
