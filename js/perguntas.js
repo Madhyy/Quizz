@@ -16,7 +16,7 @@ export const perguntas = [
                     "Os dois mendigos duelaram até o fim, menos um mendigo faminto no mundo e mais um satisfeito após comer o pão.",
                     "Após ir embora os mendingos continuaram até que se cansaram e dividiram o pão voluntariamente."
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
@@ -39,7 +39,7 @@ export const perguntas = [
                     "Após reportar de maneira sensata a situação ao prefeito, o bairro passa por uma transforção onde todos os moradores são retirados de suas casa e por fim apartamentos são feitos para acomodar mais pessoas, mas eles não foram feito exatamente para os antigos moradores viverem (parabéns, acabou com familias)",
                     "Depois de reportar, o prefeito concordou em restaurar o bairro e agora além de estar iluminado e asfaltado, o bairro tem um nome."
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
@@ -62,7 +62,7 @@ export const perguntas = [
                     "É um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
                     "Na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
                 ],
-                proxima: 1,
+                proxima: 2,
             },
         ]
     },
