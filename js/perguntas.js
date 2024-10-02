@@ -67,21 +67,21 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Depois de toda a jornada para voltar para casa, você finalmente chega e é recebido por sua mãe. Com a chegada do jantar ela olha para você: Não deixe comida no prato, tem gente passando fome",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
+                texto: "Tento rebater.",
                 afirmacao: [
-                    "Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
-                    "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
+                    "Durante a discussão no jantar com sua mãe você rebate: Se eu jogar a commida fora tem mais chances da comida chegar neles do que quando como, mãe. Sua mãe reflete e concorda, com o passar dos anos isso virou conhecimentos de todos e no final essa era a solução da fome.",
+                    "Na discussão no jantar com sua mãe, você tentou rebater: Mãe, a senhora não me entende, ninguém me entende!. No final era apenas mais um surto adolescente, sua mãe segue com o jantar colaborando mais para a humanidade do que você colaborou durante o dia"
                 ],
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
+                texto: "Propor uma proposta de intervenção a fome",
                 afirmacao: [
-                    "Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!",
-                    "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
-                    "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
+                    "Você pensou apenas em si próprio, e a sua proposta de intervenção aglobava somente a sua fome, com isso você apenas termina o jantar e sobe para o seu quarto jogar uma partida de LoL e então dormir.",
+                    "Sua solução foi usar do salário do prefeito para manter as familias que mais precisavam de recursos pela cidade. Com o passar do tempo outras cidades e então estados usaram da mesma ideia, consecutivamente o próprio presidente teve que se desfazer do que tinha pela população.",
+                    "Sua solução não foi bem interver, você simplesmente não terminou o jantar com o discurso de que passaria fome também como forma de conscientização e que sua mãe deveria fazer o mesmo e conscientizar os outros a fazer o mesmo assim que ela tentou te chamar de louco."
                 ],
             },
         ]
