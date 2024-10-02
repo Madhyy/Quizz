@@ -5,23 +5,23 @@ export const perguntas = [
             {
                 texto: "Pego o pão para mim.",
                 afirmacao: [
-                    "Agora os dois mendigos não terão pelo que brigar pelo o que comer.",
-                    "Você ganhou um pão e resolveu a discussão entre os dois mendigos, agora ambos vãoo vir unidos para cima de você, corra."
+                    "Agora os dois mendigos não terão que brigar pelo o que comer.",
+                    "Você ganhou um pão e resolveu a discussão entre os dois mendigos, agora ambos vão vir unidos para cima de você, corra."
                 ],
                 proxima: 1,
             },
             {
                 texto: "Vou embora.",
                 afirmacao: [
-                    "Os dois mendingos duelaram até o fim, agora resta apenas um mendigo não mais faminto depois de comer o pão",
-                    "Após ir embora os mendingos continuaram até que se cansaram e dividiram o pão voluntariamente e não graças a você."
+                    "Os dois mendigos duelaram até o fim, menos um mendigo faminto no mundo e mais um satisfeito após comer o pão.",
+                    "Após ir embora os mendingos continuaram até que se cansaram e dividiram o pão voluntariamente."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Continuando a caminhada de volta para casa após você atravessar o bairro onde prefeito da cidade vive, você se depara com o bairro esquecido pelo prefeito. Não há asfalto, iluminação, apenas uma trilha submersa em um rio... (embora não haja rios pela área, esssa água parou aí de algum modo.",
         alternativas: [
             {
                 texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
