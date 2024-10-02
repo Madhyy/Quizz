@@ -21,19 +21,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Continuando a caminhada de volta para casa após você atravessar o bairro onde prefeito da cidade vive, você se depara com o bairro esquecido pelo prefeito. Não há asfalto, iluminação, apenas uma trilha submersa em um rio (embora não haja rios pela área, esssa água parou aí de algum modo)...",
+        enunciado: "Continuando a caminhada de volta para casa após você atravessar o bairro onde prefeito da cidade vive, você se depara com o bairro esquecido pelo prefeito. Não há asfalto, iluminação, apenas uma trilha submersa em um rio (embora não haja rios pela área, essa água parou aí de algum modo)...",
         alternativas: [
             {
                 texto: "Atravessar mesmo assim (fazendo Parkour)",
                 afirmacao: [
                     "Atravessando o bairro que sequer foi inaugurado com um nome, você pula sobre as tábuas que foram usadas para cobrir a água, quando estava para sair você acidentalmente pisa numa poça de água que pela escuridão não viu, instantaneamente você sente a má energia da poça, corra para um UPA próximo (boa sorte)",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Fazendo Parkour nas casinhas do bairro esquecido, você pisa numa telha solta e cai dentro da casinha. Lá estava o homem do qual você chama de pai com sua segunda familia, após o choque você recebe alguns trocados para se calar, dinheiro que pode ser usado para investir em organizações de cunho social.",
+                    "Ante mesmo de conseguir correr para se desviar da água, devido a escuridão e a rua com buracos, você tropeça e cai, deixando cair alguns trocados que em breve alguém que vive ali pode encontrar, abrindo portas para um futuro brihante a essa pessoa que pode usar o dinheiro para melhorar de vida ou então gastar com pinga."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
+                texto: "e..",
                 afirmacao: [
                     "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.",
                     "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse mais tempo.",
