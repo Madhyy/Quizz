@@ -59,8 +59,8 @@ export const perguntas = [
                 texto: "Paro para observar e vou embora.",
                 afirmacao: [
                     "Ao observar o grupo você percebe que são tiktokers trazendo mendigos para realizarem desafios em videos e então recebe uma recompensa misteriosa, o que não esperavam é que um desses mendigos que esperavam ajudar na verdade era o grande influenciador mendigo Bluezão, fazendo um teste social, ele te vê depois e te entrega parte de suas propriedades que podem ser usadas para criar residencias voluntárias. ",
-                    "É um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
-                    "Na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
+                    "O grupo que você parou para olhar, é um grupo que promovia ações para arrecadar fundos para manter os próximos CBLOL, estavam infelizes pois acabou, inspirado por você não ser um deles você vai para casa feliz já que você tem emprego e colabora com ONG's ",
+                    "Aquele grupo que você parrou para observar, na verdade era apenas a Virginia e companhia tentando vender rifa após o tigrinho levar suas propriedades"
                 ],
                 proxima: 2,
             },
@@ -79,8 +79,8 @@ export const perguntas = [
             {
                 texto: "Propor uma proposta de intervenção a fome",
                 afirmacao: [
-                    "Você pensou apenas em si próprio, e a sua proposta de intervenção aglobava somente a sua fome, com isso você apenas termina o jantar e sobe para o seu quarto jogar uma partida de LoL e então dormir.",
-                    "Sua solução foi usar do salário do prefeito para manter as familias que mais precisavam de recursos pela cidade. Com o passar do tempo outras cidades e então estados usaram da mesma ideia, consecutivamente o próprio presidente teve que se desfazer do que tinha pela população.",
+                    "Durante o jantar com sua mãe, você pensou apenas em si próprio, e a sua proposta de intervenção aglobava somente a sua fome, com isso você apenas termina o jantar e sobe para o seu quarto jogar uma partida de LoL e então dormir.",
+                    "Sua solução para proposta durante o janta foi usar do salário do prefeito para manter as familias que mais precisavam de recursos pela cidade. Com o passar do tempo outras cidades e então estados usaram da mesma ideia, consecutivamente o próprio presidente teve que se desfazer do que tinha pela população.",
                     "Sua solução não foi bem interver, você simplesmente não terminou o jantar com o discurso de que passaria fome também como forma de conscientização e que sua mãe deveria fazer o mesmo e conscientizar os outros a fazer o mesmo assim que ela tentou te chamar de louco."
                 ],
             },
