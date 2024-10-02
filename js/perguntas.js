@@ -75,7 +75,7 @@ export const perguntas = [
                     " Ao parar para falar com Bluezão você é pego pela história de vida dele, nada muito comovente, mas você foi o primeiro que parou para o escutar, e no final você descobre que é um teste social, a herança dele é colocada em seu nome e assim você decide voluntariamente (ou não) doar para a caridade",
                     "Parando para falar com Bluezão vocês entram em um consenso após entrar em um crise existencial, vocês elaboraram acidentalmente um bom plano para ajudar bairros necessitados e pessoas"
                 ],
-                proxima: 7,
+                proxima: 6,
             },
             {
                 texto: "Humilhar ele e ir embora",
@@ -83,7 +83,7 @@ export const perguntas = [
                     "Humilhando o BLuezão você o fez chorar, não man, não é assim que se contribui com a sociedade, você não teve sucesso com o seu objetivo de resolver os problemas do mundo.",
                     "Humilhando o Bluezão ele joga umas moedas para que você deixasse ele, com essas moedas você pode investir já que se recorda de um video no tiktok onde um mano cresceu com uma moeda de um real, caso contrário você poderia simplesmente usar a moeda em maquinas de pegar Pokémon"
                 ],
-                proxima: 8,
+                proxima: 5,
             },
         ]
     },
